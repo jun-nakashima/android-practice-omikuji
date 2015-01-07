@@ -10,6 +10,9 @@ public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        /**
+         * Add Comment 1
+         */ 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
