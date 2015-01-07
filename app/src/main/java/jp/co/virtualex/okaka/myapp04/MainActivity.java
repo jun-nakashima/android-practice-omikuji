@@ -15,6 +15,7 @@ public class MainActivity extends Activity {
          * Comment 02
          * Comment 03
          * Comment 04
+         * Comment 05
          */
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
