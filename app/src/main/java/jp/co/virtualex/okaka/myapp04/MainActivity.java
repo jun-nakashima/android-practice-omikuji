@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         /**
          * Comment 01
+         * Comment 02
          */
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
